@@ -1,7 +1,7 @@
 package com.git;
 
-public class ProdTesting {
-
+public class DevTesting {
+	
 
 	private void test1() {
 		
@@ -14,4 +14,5 @@ public class ProdTesting {
 		System.out.println("TES2");
 
 	}
+
 }
